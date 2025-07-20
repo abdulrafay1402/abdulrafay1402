@@ -6,7 +6,7 @@
 <h1 align="center">Hey there, I'm Abdul Rafay 👨‍💻</h1>
 
 <p align="center">
-  <em>Software Engineering student at <strong>FAST-NUCES</strong>, Pakistan</em>
+  <em>Software Engineering student at <strong>FAST-NUCES</strong> , Karachi , Pakistan</em>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me  
 
 - 🎓 Software Engineering undergrad passionate about turning ideas into useful applications  
-- 🛠 Currently enrolled in **SMIT MERN Stack Development Course**  
+- 🛠 Currently enrolled in **SMIT Modern Web and Application Developement**  
 - ⚙️ I enjoy building **intuitive desktop apps & backend systems** in Java  
 - 💡 Also exploring **full-stack dev**, **system design**, and **AI safety concepts**  
 - 🚀 Actively working on:
