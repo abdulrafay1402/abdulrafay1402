@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://github.com/abdulrafay1402/abdulrafay1402/blob/main/banner.gif" width="100%" alt="Welcome Banner">
 </p>
-
 <h1 align="center">Hey there, I'm Abdul Rafay 👨‍💻</h1>
 
 <p align="center">
