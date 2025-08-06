@@ -62,7 +62,7 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulrafay1402">
+  <a href="https://www.linkedin.com/in/abdulrafay-imran">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:abdulrafay1402@gmail.com">
