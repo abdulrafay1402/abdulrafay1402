@@ -15,11 +15,7 @@
 - 🎓 Software Engineering undergrad passionate about turning ideas into useful applications  
 - 🛠 Currently enrolled in **SMIT Modern Web and Application Developement**  
 - ⚙️ I enjoy building **intuitive desktop apps & backend systems** in Java  
-- 💡 Also exploring **full-stack dev**, **system design**, and **AI safety concepts**  
-- 🚀 Actively working on:
-  - ✅ **Learning-AI** with Gemini Api and Streamlit
-  - ✅ ✈️ **Aviation Ticketing System** with JDBC + Swing
-  - 🛵 **Ride Booking App** (planned, using DSA concepts)
+- 💡 Also exploring **full-stack dev**
 
 ---
 
