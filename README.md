@@ -1,9 +1,15 @@
+<!-- Header Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome!&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Wave">
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/abdulrafay1402/abdulrafay1402/blob/main/banner.gif" width="100%" alt="Welcome Banner">
 </p>
-<h1 align="center">Hey there, I'm Abdul Rafay 👨‍💻</h1>
 
+<!-- Title -->
+<h1 align="center">Hey there, I'm Abdul Rafay 👨‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+%26+Python+Developer;Building+Desktop+%26+Web+Apps;FAST-NUCES+%7C+Karachi" alt="Typing SVG">
 </p>
