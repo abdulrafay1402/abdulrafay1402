@@ -5,7 +5,7 @@
 <h1 align="center">Hey there, I'm Abdul Rafay 👨‍💻</h1>
 
 <p align="center">
-  <em>Software Engineering student at <strong>FAST-NUCES</strong> , Karachi , Pakistan</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+%26+Python+Developer;Building+Desktop+%26+Web+Apps;FAST-NUCES+%7C+Karachi" alt="Typing SVG">
 </p>
 
 ---
@@ -13,10 +13,7 @@
 ### 👨‍💻 About Me  
 
 - 🎓 Software Engineering undergrad passionate about turning ideas into useful applications  
-- 🛠 Currently enrolled in **SMIT Modern Web and Application Developement**  
-- ⚙️ I enjoy building **intuitive desktop apps & backend systems** in Java  
-- 💡 Also exploring **full-stack dev**
-
+- 🛠 Currently enrolled in **SMIT Modern Web and Application Developement** 
 ---
 
 ### 🛠 Languages & Tools  
