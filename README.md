@@ -91,9 +91,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdulrafay1402&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafay1402&theme=tokyo-night&hide_border=true" />
-</p>
 
 
 
